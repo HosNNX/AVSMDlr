@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [deltachat-gplay-release-2.47.0](./deltachat-gplay-release-2.47.0)
 - [deltachat-gplay-release-2.48.0](./deltachat-gplay-release-2.48.0)
 - [mhr-cfw-go-linux](./mhr-cfw-go-linux)
 - [mhr-cfw-go-windows](./mhr-cfw-go-windows)
